@@ -1,2 +1,3 @@
-# ing_software_2
-Práctica de la materia Ingeniería de Software 2 de la Universidad Adventista del Plata
+# Ingeniería del Software 2
+##1. Versionado de código.
+>Uso de git y GitHub

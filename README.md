@@ -10,7 +10,13 @@ Ya tuvimos algunas reuniones con el cliente donde nos expresó sus necesidades. 
 - Buenas prácticas
 
 ## 3. Testeo
+- Tipos de testeo
+- Herramientas para testing
 
 ## 4. Implementación/Deployment
+- Servidores
+- Contenedores
+- Serverless
 
 ## 5. Mantenimiento
+- Si se utilizaron buenas prácticas y se hizo una buena documentación, el mantenimiento es mínimo

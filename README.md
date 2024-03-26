@@ -8,9 +8,9 @@ Ya tuvimos algunas reuniones con el cliente donde nos expresó sus necesidades. 
 - Documentación
 - Herramientas para el desarrollo
 - Buenas prácticas
+- Validación
 
 ## 3. Testeo
-- Tipos de testeo
 - Herramientas para testing
 
 ## 4. Implementación/Deployment
